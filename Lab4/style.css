@@ -7,7 +7,7 @@
 
 body {
     height: 100vh;
-    background: url(/Lab4/BG.jpg) no-repeat center center;
+    background: url('BG.jpg') no-repeat center center;
     background-size: cover;
     overflow: hidden;
     font-family: 'Georgia', 'Times New Roman', serif; 
