@@ -8,10 +8,10 @@
 body {
     height: 100vh;
     background: url(BG.jpg) no-repeat center center;
+    background-color: #794e00;
     background-size: cover;
     overflow: hidden;
     font-family: 'Georgia', 'Times New Roman', serif; 
-    background-color: #794e00;
 }
 
 .card {
