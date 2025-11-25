@@ -11,7 +11,7 @@ body {
     background-color: #794e00;
     background-size: cover;
     overflow: hidden;
-    font-family: 'Georgia', 'Times New Roman', serif; 
+    font-family: 'Rye', 'Special Elite', serif; 
 }
 
 .card {
@@ -34,7 +34,7 @@ body {
 }
 
 .card h1 {
-    font-family: 'Georgia', serif;
+    font-family: 'Rye', serif;
     font-size: 38px;
     color: #8c0000;
     margin-bottom: 5px;
@@ -48,7 +48,7 @@ body {
 }
 
 .card p {
-    font-family: 'Georgia', serif;
+    font-family: 'Rye', serif;
     color: #3b2313;
     font-size: 20px;
     line-height: 1.4;
@@ -63,7 +63,7 @@ body {
     background-color: #8c0000;
     color: #e8dcc0;
     padding: 12px 35px;
-    font-family: 'Georgia', serif;
+    font-family: 'RYe', serif;
     font-size: 22px;
     font-weight: bold;
     border: 2px solid #3b2313; 
