@@ -1,4 +1,3 @@
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -42,7 +41,6 @@ header {
     margin: 0 auto;
 }
 
-
 .logo {
     font-size: 24px;
     font-weight: 900;
@@ -57,7 +55,6 @@ header {
     transform: scale(1.05);
 }
 
-
 .nav-links {
     display: flex;
     gap: 20px;
@@ -70,7 +67,7 @@ header {
 .nav-links a {
     font-size: 13px;
     font-weight: 700;
-    color: #ccc;
+    color: #888;
     text-transform: uppercase;
     padding: 10px 0;
     transition: color 0.3s ease;
@@ -80,7 +77,6 @@ header {
 .nav-links a.active-link {
     color: #fff;
 }
-
 
 .dropdown-content {
     display: none;
@@ -126,7 +122,6 @@ header {
     color: #ff4b4b !important;
     transform: translateX(5px);
 }
-
 
 .user-actions {
     display: flex;
@@ -180,7 +175,6 @@ header {
     color: #00cba0;
 }
 
-
 .hero {
     text-align: center;
     margin-top: 60px;
@@ -198,7 +192,6 @@ header {
     font-size: 20px;
     color: #ccc;
 }
-
 
 .pricing-container {
     display: flex;
@@ -227,7 +220,6 @@ header {
     transform: translateY(-15px) scale(1.02);
     box-shadow: 0 15px 40px rgba(0,0,0,0.6);
 }
-
 
 .card-light {
     background: linear-gradient(180deg, #4d4624 0%, #1a1a1a 100%);
@@ -347,7 +339,6 @@ header {
     margin-top: 10px;
 }
 
-
 .badge {
     position: absolute;
     top: -15px;
@@ -386,7 +377,6 @@ header {
 .bottom-link a:hover {
     color: #fff;
 }
-
 
 .auth-wrapper {
     flex-grow: 1;
@@ -577,7 +567,6 @@ header {
     background-color: rgba(255,255,255,0.05);
 }
 
-/* --- Адаптивність (Mobile) --- */
 @media (max-width: 1024px) {
     .nav-links {
         display: none;
